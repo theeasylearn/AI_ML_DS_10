@@ -90,22 +90,25 @@ simple program
     
 decision making exercise
 ------------------------------------
+simple if decision 
+    1) write a program to convert 24 hours time into 12 hours format time and display it with AM PM message. 
+    input : 15 hours 
+    output  3 PM 
 
-1) write a program to convert 24 hours time into 12 hours format time and display it with AM PM message. 
-input : 15 hours 
-output  3 PM 
+    input : 11 hours 
+    output  11 AM 
 
-input : 11 hours 
-output  11 AM 
+    input : 25 hours 
+    output  invalid input 
 
-input : 25 hours 
-output  invalid input 
+    2) write a program to accept length and width of two different farm from user. 
+    findout & display which farm is bigger
+
+3) write a program to decide shape of object (portrait, landscape, square) 
+from given length and width 
 
 
-
-2) write a program to accept length and width of two different farm from user. and findout & display which farm is bigger 
-
-3) write a program to accept day of week (between 1 to 7) and then display name of day. (use simple if decision making)
+4) write a program to accept day of week (between 1 to 7) and then display name of day. (use simple if decision making)
     input 1 : monday 
     input 2 : tuesday 
     input 7 : sunday 
