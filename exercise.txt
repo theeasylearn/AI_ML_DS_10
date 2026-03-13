@@ -104,15 +104,16 @@ simple if decision
     2) write a program to accept length and width of two different farm from user. 
     findout & display which farm is bigger
 
-3) write a program to decide shape of object (portrait, landscape, square) 
-from given length and width 
+    3) write a program to decide shape of object (portrait, landscape, square) 
+    from given length and width 
 
 
-4) write a program to accept day of week (between 1 to 7) and then display name of day. (use simple if decision making)
-    input 1 : monday 
-    input 2 : tuesday 
-    input 7 : sunday 
+    4) write a program to accept day of week (between 1 to 7) and then display name of day. (use simple if decision making)
+        input 1 : monday 
+        input 2 : tuesday 
+        input 7 : sunday 
 
+if else 
 4) write a program to findout whether given year is millennium year or not. using if else decision making statements.
 
 5) write a program to findout elder brother from two brother age. 
@@ -121,7 +122,9 @@ from given length and width
 
 7) write a program to decide which is better approach to go from ahmedabad to delhi. by car or by train. person has his own petrol car 
 
-4) 
+if elif else statement 
+------------------------------------
+8) 
 Write a program that takes a 5 subject marks from user. calculate total and average  and prints the grade using the following conditions:
 
 | Percentage | Grade |
@@ -134,17 +137,12 @@ Write a program that takes a 5 subject marks from user. calculate total and aver
 | below 50   | Need to improve  |
 ----------------------------------------
 
-1) write a program to accept 2 number from user. and accept choice for operations.
+9) write a program to accept 2 number from user. and accept choice for operations.
 operations will be addition, subtraction, multiplication, division
 do operation and display result as per user choice using switch statements.
 
-2) write a program to accept month number from user and display how many days month has. 
-    input : 1 output : this month has 31 days 
-    input : 4 output : this month has 30 days 
 
-3) write a program to findout whether given year is millenium year or not 
-
-4) write a program to accept birth day and birth month from user. decide zodiac sign from below table 
+10) write a program to accept birth day and birth month from user. decide zodiac sign from below table 
     Aries: March 21–April 19
     Taurus: April 20–May 20
     Gemini: May 21–June 21
