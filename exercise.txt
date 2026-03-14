@@ -156,6 +156,17 @@ do operation and display result as per user choice using switch statements.
     Aquarius: January 20–February 18
     Pisces: February 19–March 20
 
+nested decision making 
+
+11) write a program to findout whether given year is leap year nor not. 
+    https://www.wikihow.com/Calculate-Leap-Years
+
+12) write a program to finout out name day of week from given date 
+    input: 14-03-2026 output : on this date day is saturday 
+    input: 01-03-2025 output : on this date day is wednesday 
+    
+    https://www.wikihow.com/Calculate-the-Day-of-the-Week
+    
 while loop 
 ---------------------
 1   100  95  90  85  80  75  70  65  60  ..... 0
