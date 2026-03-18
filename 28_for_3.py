@@ -21,3 +21,5 @@ india_info = {
     "internet_tld": ".in",
     "national_animal": "bengal tiger"
 }
+for item in india_info:
+    print(item, india_info[item]) #it will name of each and every key
