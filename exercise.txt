@@ -244,13 +244,17 @@ nested loop
 
 functions
 -----------------------------------------------
-1) create function that has arbitary arguments of string type and it display all strings into lower case.
+1) write a program to create function calculate and return simple Interest of given amount, rate, year 
+
+2) write a program to create function calculate and return compound Interest of given amount, rate, year 
+
+
+3) create function that has arbitary arguments of string type and it display all strings into lower case.
 toLowerCase('Apple','bAnana','ManGO','KIWI','graps')
 output 
     apple banana mango kiwi graps
 
-
-3) create function getInches which has meter, foot and inches as argument this function should return total inches. note foot and inches are default aguments whose default value should be zero 
+4) create function getInches which has meter, foot and inches as argument this function should return total inches. note foot and inches are default aguments whose default value should be zero 
 
 3.2) create function getGrams which has ton,kg, grams as argument this function should return total grams. note kg and grams are default aguments whose default value should be zero 
 
