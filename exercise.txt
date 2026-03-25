@@ -279,6 +279,13 @@ output
 8) use map function to findout binary of each number in list 
     [10,20,40,80,100]
 
+function 
+     1) write a program to create function getinches which return total inches of given meter,foot and inches . *(here foot and inches are optional and their default value is 0) 
+
+     2) write a program to create function getGrams which return total grams of given  Ton, Kilo and grams . *(here kilo and grams are optional and their default value is 0) 
+
+     
+
 recursion
 ---------------------------------------
 1) write recursive function to convert decimal into binary 
