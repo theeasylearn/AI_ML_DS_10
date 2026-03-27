@@ -289,7 +289,11 @@ function
 
      2) write a program to create function getGrams which return total grams of given  Ton, Kilo and grams . *(here kilo and grams are optional and their default value is 0) 
 
-     
+keyword arguments 
+---------------------------------------------------------------------------------------------------
+write a program to calculate Least Common Divisor, and Greatest common Divisor of given values and return it together 
+
+write a program that return total area of house, average room size and maximum room size  from 1 bed room, 1 hall, 1 kitchen size. here room, hall and kitchen all are actually tuple which has length and width. 
 
 recursion
 ---------------------------------------
