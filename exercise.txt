@@ -297,9 +297,8 @@ write a program that return total area of house, average room size and maximum r
 
 recursion
 ---------------------------------------
-1) write recursive function to convert decimal into binary 
-1) write recursive function to convert decimal into octal
-1) write recursive function to convert decimal into hexadecimal
+2) write recursive function to convert decimal into octal
+3) write recursive function to convert decimal into hexadecimal
 
 Module 
 1) create module which has below method. name of the module converter module    
