@@ -305,6 +305,9 @@ lambda function
 2) write a program to findout bmi of given weight and height of person 
 3) write a program to findout largest number from 3 given number using lambda function 
 
+4) write a program that will return numbers which are divisible by 10 using filter function 
+5) write a program that will return reverse of 2 digit numbers passed via list. use map function 
+
 Module 
 1) create module which has below method. name of the module converter module    
         inch to Foot 
