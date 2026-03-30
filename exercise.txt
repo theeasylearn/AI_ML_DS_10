@@ -300,6 +300,11 @@ recursion
 2) write recursive function to convert decimal into octal
 3) write recursive function to convert decimal into hexadecimal
 
+lambda function 
+1) write a program to get area of triangle using lambda function 
+2) write a program to findout bmi of given weight and height of person 
+3) write a program to findout largest number from 3 given number using lambda function 
+
 Module 
 1) create module which has below method. name of the module converter module    
         inch to Foot 
