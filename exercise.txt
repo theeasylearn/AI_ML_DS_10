@@ -308,6 +308,8 @@ lambda function
 4) write a program that will return numbers which are divisible by 10 using filter function 
 5) write a program that will return reverse of 2 digit numbers passed via list. use map function 
 
+update 48_namespace.py. provide option to display all previous transactions 
+
 Module 
 1) create module which has below method. name of the module converter module    
         inch to Foot 
@@ -337,3 +339,4 @@ exception handling
 --------------------------
 1) write a program to accept weight from user in kg. calculate BMI(body to mass index) and display it. handle all built in exception 
 
+global namespace 
