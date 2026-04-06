@@ -340,3 +340,17 @@ exception handling
 1) write a program to accept weight from user in kg. calculate BMI(body to mass index) and display it. handle all built in exception 
 
 global namespace 
+
+package 
+create package language which has below sub package 
+    hindi
+    punjabi
+    gujarati
+    marathi 
+    tamil
+    telugu 
+
+each sub package has getLanguage Methods which return language of particular dialect 
+
+
+
