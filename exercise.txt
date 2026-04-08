@@ -353,4 +353,22 @@ create package language which has below sub package
 each sub package has getLanguage Methods which return language of particular dialect 
 
 
+OOP 
+-----------
+create class Product and store below detail 
+    Name, Price, Stock, Weight 
+    add constructor 
+    add display method to display all instance variable 
+    add method UpdatePrice which update only price 
+    add method updateStock which update only stock 
+
+
+create class Book and store below detail 
+    class should have class variable publisher 
+    Name, author, price, pages 
+    add constructor 
+    add display method to display all instance variable 
+    create multiple object of Book class 
+    
+
 
